@@ -6,4 +6,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 For the tidy dataset `UCI_HAR_Mean_and_StandardDeviation_Measurements.csv`, its last two columns are activity name and subject. See `README.txt` inside the zip file for details. The other columns are features captured in the raw data, see `features_info.txt` inside the zip file for details. Each row of the tidy dataset is an observation with only features that are mean value or standard deviation of some measurements from the raw data.
 
-For the tidy dataset `UCI_HAR_Mean_per_Activity_and_Subject`, each row is the average of all observations in the raw data for the same Subject and same Activity. All 561 columns are kept.
+For the tidy dataset `UCI_HAR_Mean_per_Activity_and_Subject.csv`, each row is the average of all observations in the raw data for the same Subject and same Activity. All 561 columns are kept.
